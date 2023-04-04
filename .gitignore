@@ -1,0 +1,8 @@
+env/
+__pycache__/
+.idea/
+mosaic/migrations/*.*
+account.txt/
+.jpg
+.png
+.zip
